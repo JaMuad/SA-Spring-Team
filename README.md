@@ -18,18 +18,6 @@ This repository features a collection of technical workshops and hands-on projec
 
 ---
 
-### Cynthia's Projects
-
-| Project              | Summary                                                                                      | Link               |
-| -------------------- | -------------------------------------------------------------------------------------------- | ------------------ |
-| Infrastructure Camp  | Explore identity, networking, and storage basics for cloud infrastructure.                   | [muad.dev/info](https://muad.dev/info) |
-| Machine Learning Camp | Build a web app with Amazon Rekognition and Textract.                                        | [muad.dev/ML](https://muad.dev/ML) |
-| Generative AI Lab    | Create a Generative AI web app for positive affirmations.                                     | [muad.dev/genAILab](https://muad.dev/genAILab) |
-| ResumeAPI            | COMING SOON                                                                                  | COMING SOON        |
-| Resume Challenge     | COMING SOON                                                                                  | COMING SOON        |
-
----
-
 ### Lucy's Projects
 
 | Project              | Summary                                                                                      | Link               |
@@ -67,6 +55,18 @@ This repository features a collection of technical workshops and hands-on projec
 ---
 
 ### Muad's Projects
+
+| Project              | Summary                                                                                      | Link               |
+| -------------------- | -------------------------------------------------------------------------------------------- | ------------------ |
+| Infrastructure Camp  | Explore identity, networking, and storage basics for cloud infrastructure.                   | [muad.dev/info](https://muad.dev/info) |
+| Machine Learning Camp | Build a web app with Amazon Rekognition and Textract.                                        | [muad.dev/ML](https://muad.dev/ML) |
+| Generative AI Lab    | Create a Generative AI web app for positive affirmations.                                     | [muad.dev/genAILab](https://muad.dev/genAILab) |
+| ResumeAPI            | COMING SOON                                                                                  | COMING SOON        |
+| Resume Challenge     | COMING SOON                                                                                  | COMING SOON        |
+
+---
+
+### Cynthia's Projects
 
 | Project              | Summary                                                                                      | Link               |
 | -------------------- | -------------------------------------------------------------------------------------------- | ------------------ |
